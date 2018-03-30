@@ -1,0 +1,23 @@
+909101759|Williams|Benjamin|HS
+No record with SID=260563763 exists
+909101759|Williams|Benjamin|HS
+No record with SID=462166854 exists
+Record with SID=625717365 exists
+Record with SID=683232294 exists
+No record with SID=700076191 exists
+No record with SID=657185845 exists
+No record with SID=109217592 exists
+Index:
+key=217897100: offset=275
+key=269716091: offset=210
+key=287710025: offset=243
+key=324336166: offset=29
+key=625717365: offset=0
+key=683232294: offset=87
+key=684482365: offset=148
+Availability:
+size=34: offset=176
+size=31: offset=117
+size=29: offset=58
+Number of holes: 3
+Hole space: 94

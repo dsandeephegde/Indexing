@@ -63,3 +63,9 @@ cc main.c
 Example: 
 
 `./a.out --best-fit student.db`
+
+Test Cases
+
+Test cases can be run by following command
+
+`sh test.sh`

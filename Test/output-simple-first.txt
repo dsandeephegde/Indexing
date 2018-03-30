@@ -1,0 +1,7 @@
+433645906|Anderson|Ella|Eng
+Index:
+key=471835574: offset=31
+Availability:
+size=31: offset=0
+Number of holes: 1
+Hole space: 31

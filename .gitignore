@@ -2,3 +2,6 @@ CMakeLists.txt
 cmake*
 .idea
 a.out
+Test/my-*
+avail.bin
+index.bin
