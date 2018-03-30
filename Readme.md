@@ -1,19 +1,19 @@
-**In-Memory Indexing with Availability Lists**
+## In-Memory Indexing with Availability Lists
 
-Goal: 
+#### Goal 
 - To build and maintain an in-memory primary key index to improve search efficiency.
 - To use an in-memory availability list to support the reallocation of space for records that are deleted.
 
-*Student Database File*
+#### Student Database File
 
 `712412913|Ford|Rob|Phi` represents a student with an SID of 712412913, a last of Ford, a first of Rob, and a major of Phi.
 
-*Availability list order*
+#### Availability list order
 - First fit
 - Best fit
 - Worst fit
 
-*User Interface*
+#### User Interface
 - add key rec
 
     Adds a new record rec with an SID of key to the student file. The format of rec is a |-delimited set of fields (exactly as described in Student File section above), for example
@@ -50,7 +50,7 @@ Goal:
 - end
     End the program, close the student file, and write the index and availability lists to the corresponding index and availability files.
 
-*Program Execution*
+#### Program Execution
 
 `
 cc main.c
@@ -64,7 +64,7 @@ Example:
 
 `./a.out --best-fit student.db`
 
-Test Cases
+#### Test Cases
 
 Test cases can be run by following command
 
